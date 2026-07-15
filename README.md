@@ -1,5 +1,3 @@
-Paste this EXACTLY into `README.md` on GitHub:
-
 # CheapFlix
 
 Premium OTT subscription management and streaming showcase web app built with **React + Vite + TypeScript**.
