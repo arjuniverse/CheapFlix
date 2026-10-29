@@ -1,8 +1,3 @@
-# CheapFlix
-
-CheapFlix is a frontend web application for browsing movies and TV shows, comparing streaming subscription plans, and managing a personal watchlist. It brings popular OTT platforms together in one place with a simple, Netflix-inspired interface.
-
-Built using React, Vite, and TypeScript, the project focuses on frontend development, reusable components, responsive design, and interactive user experiences.
 
 ## Features
 
